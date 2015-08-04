@@ -1,0 +1,10 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+.git folder is created
+untracked files are under list
+we are on the master
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+its is tracked but it is not committed to git
+helps us to track and update us on the commitment into git
