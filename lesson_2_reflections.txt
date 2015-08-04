@@ -23,3 +23,8 @@ some changes which go on the same work code, but the bahavior remains the same l
 How do the diagrams help you visualize the branch structure?
 
 Understanding the branches and there reason for adding them
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Can combine the main branch with the new feature branch
+We draw the diagram thsi way cos it helps us to find the accessibility to the branch through the master
