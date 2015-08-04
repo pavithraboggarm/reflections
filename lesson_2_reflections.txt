@@ -28,3 +28,8 @@ What is the result of merging two branches together? Why do we represent it in t
 
 Can combine the main branch with the new feature branch
 We draw the diagram thsi way cos it helps us to find the accessibility to the branch through the master
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Automatic merging is helpful when there are no conflicts
+manually doing them avoids the conflicts which are not taken care
