@@ -8,3 +8,9 @@ How is the staging area different from the working directory and the repository?
 
 its is tracked but it is not committed to git
 helps us to track and update us on the commitment into git
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+git diff  and git diff --staged helps us to make sure it has just the required changes for the committment
+git diff compares working directory and staged 
+git diff -- staged compares staged and repository
