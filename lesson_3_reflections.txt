@@ -7,3 +7,8 @@ Why might you want to always pull changes manually rather than having Git automa
 We might be offline
 we can take the updated files only when required
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+forks: replicating another repository to your repositiry
+clones: having a replica of the repository in github to your local machine
+branches: added whi;le creating something new and you do not want to lose the existing one
